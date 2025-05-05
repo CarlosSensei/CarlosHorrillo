@@ -149,16 +149,20 @@ nav a:hover {
     padding: 1rem;
 }
 
+<<<<<<< HEAD
 .grid-portafolio h3 {
     font-size: 1.5rem;
     margin-bottom: 1rem;
     margin-top: 2rem;
 }
 
+=======
+>>>>>>> refs/remotes/origin/main
 .grid-portafolio img {
     width: 100%;
     max-height: 200px;
     height: auto;
+<<<<<<< HEAD
     border: #333 1px solid;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     border-radius: 8px;
@@ -168,6 +172,8 @@ nav a:hover {
 .grid-portafolio img:hover {
     transform: scale(1.2);
     transition: transform 0.3s ease;
+=======
+>>>>>>> refs/remotes/origin/main
 }
 
 /* ===========================
